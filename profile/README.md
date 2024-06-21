@@ -71,6 +71,10 @@ Clone the repository on your machine. Open the project on your Android Studio an
 - Light Mode and Dark Mode 🌗
 - Clear Cache
 ## 📸 Screenshots
+||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
+| ![](../splash.png) | ![](../onboarding.png) | ![](../login.png) |
+| ![](../home.png) | ![](../diagnose.png) | ![](../result.png) |
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
